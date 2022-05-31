@@ -33,7 +33,7 @@ python3 tesla-rfcat.py<br>
 
 Thank you to PickedItMate for the payload optimisation<br>
 
-Yard stick one discord channel: <br>
+<b>Yard stick one discord channel:</b> <br>
 https://discord.gg/C7nwKE8T<br>
 Author: <a href="https://twitter.com/nocomp">nocomp</a>
 
