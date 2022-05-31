@@ -1,5 +1,5 @@
 # rfcat-tesla-charging-port-openener
-python script for open tesla charging port using rfcat<br><br>
+python script for open tesla charging port using rfcat zith the yard stick one <br><br>
 <img src="https://i.imgur.com/oHceMxr.jpeg"/><br><br>
 Requirements:
 You need to have rfcat propelly installed in order to use this script and python3
