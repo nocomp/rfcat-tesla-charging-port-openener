@@ -31,7 +31,9 @@ Save and run the file as folow<br>
 python3 tesla-rfcat.py<br>
 
 
-Thank you to <h2>PickedItMate</h2> for the payload optimisation<br>
+Thank you to PickedItMate for the payload optimisation<br>
 
 Yard stick one discord channel: <br>
 https://discord.gg/C7nwKE8T<br>
+Author: <a href="https://twitter.com/nocomp">nocomp</a>
+
