@@ -9,29 +9,29 @@ https://github.com/atlas0fd00m/rfcat
 
 or:
 <h3>Install RFCat</h3><br>
-git clone https://github.com/atlas0fd00m/rfcat/
-sudo python setup.py install
-cd ../
+git clone https://github.com/atlas0fd00m/rfcat/<br>
+sudo python setup.py install<br>
+cd ../<br>
 <br><br>
 <h3>Install LibUSB</h3><br>
 pip install libusb<br>
 
 <h1>Before use the script install requirements:</h1>
-pip install - r requirements.txt
+pip install - r requirements.txt<br>
 
 <br><br>
 <h1>How to use:</h1>
 <br><br>
-In tesla-rfcat.py uncomment the frequency depeding you live in usa or in the rest of the world
+In tesla-rfcat.py uncomment the frequency depeding you live in usa or in the rest of the world<br>
 <br>
-d.setFreq(433920000) # Freq for EU
-#d.setFreq(315000000) #Freq for USA
+d.setFreq(433920000) # Freq for EU<br>
+#d.setFreq(315000000) #Freq for USA<br>
 <br>
-Save and run the file as folow
-python3 tesla-rfcat.py
+Save and run the file as folow<br>
+python3 tesla-rfcat.py<br>
 
 
 Thank you to <h2>PickedItMate</h2> for the payload optimisation<br>
 
 Yard stick one discord channel: <br>
-https://discord.gg/C7nwKE8T
+https://discord.gg/C7nwKE8T<br>
