@@ -7,6 +7,14 @@ In order to install rfcat<br> <b> please follow these instructions:</b>
 
 https://github.com/atlas0fd00m/rfcat
 
+or:
+<h3>Install RFCat</h3><br>
+git clone https://github.com/atlas0fd00m/rfcat/
+sudo python setup.py install
+cd ../
+<br><br>
+<h3>Install LibUSB</h3><br>
+pip install libusb<br>
 
 <h1>Before use the script install requirements:</h1>
 pip install - r requirements.txt
