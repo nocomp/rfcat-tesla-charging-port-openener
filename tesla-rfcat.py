@@ -2,6 +2,7 @@
 POC opening Tesla Charger using rfcat
 thank you to PickedItMate for the payload conversion
 Yardstickone Discord: https://discord.com/channels/807355811281109082/807361197234061374
+author: @nocomp
 """
 #!/usr/bin/env python
 import sys
