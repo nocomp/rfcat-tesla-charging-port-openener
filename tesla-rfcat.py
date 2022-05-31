@@ -29,3 +29,4 @@ from pyfiglet import figlet_format
 
 cprint(figlet_format('P0wn3d!', font='starwars'),
        'yellow', 'on_red', attrs=['bold'])
+d.setModeIDLE()
